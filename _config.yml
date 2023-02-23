@@ -7,7 +7,7 @@ favicon: ''
 baseurl: 'https://sangtrg.github.io'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include:
   - _pages
 permalink: '/:title/'
@@ -17,7 +17,7 @@ authors:
   sal:
     name: Can T. Nguyen
     display_name: Can T.N.
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 69bfba362c993c163b38b0c09c529797
     email: trongcan.ng@gmail.com
     web: https://canng.github.io/
     twitter: https://twitter.com/canntrg
