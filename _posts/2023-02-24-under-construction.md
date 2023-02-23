@@ -5,7 +5,7 @@ author: Can T.N.
 categories: 
 - news
 image: assets/images/Under_construction.jpg
-feature: True
+featured: true
 ---
 
 Website is under construction
