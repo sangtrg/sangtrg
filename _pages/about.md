@@ -2,7 +2,7 @@
 layout: page
 title: Can Nguyen
 permalink: /about
-comments: true
+#comments: true
 ---
 
 <hr>
