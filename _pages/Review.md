@@ -1,9 +1,8 @@
 ---
-layout: archive
-title: "Peer Review"
-permalink: /review/
-author_profile: true
-
+layout: page
+#title: Mediumish Template for Jekyll
+permalink: /Review
+#comments: true
 ---
 
 ### Elsevier

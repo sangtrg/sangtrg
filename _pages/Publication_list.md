@@ -1,8 +1,8 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications_list/
-author_profile: true
+layout: page
+#title: Mediumish Template for Jekyll
+permalink: /Publication_list
+#comments: true
 ---
 
 # Selected peer-reviewed arcticles

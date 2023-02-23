@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: "Can Trong  Nguyen"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+layout: page
+#title: Mediumish Template for Jekyll
+permalink: /About
+#comments: true
 ---
 
 <hr>
