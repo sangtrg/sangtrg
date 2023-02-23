@@ -3,7 +3,7 @@ title: Energy Tree
 layout: post
 categories:
 - research
-image: assets/images/energy.png
+#image: assets/images/energy.png
 featured: true
 hidden: true
 comments: false
