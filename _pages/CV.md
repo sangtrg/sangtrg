@@ -1,7 +1,7 @@
 ---
 layout: page
-#title: Mediumish Template for Jekyll
-permalink: /CV
+title: Curriculum Vitae
+permalink: /cv
 #comments: true
 ---
 

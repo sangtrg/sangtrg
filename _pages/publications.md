@@ -1,7 +1,7 @@
 ---
 layout: page
-#title: Mediumish Template for Jekyll
-permalink: /Publication_list
+title: Selected peer-reviewed arcticles
+permalink: /publications
 #comments: true
 ---
 
