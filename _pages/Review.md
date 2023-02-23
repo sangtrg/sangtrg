@@ -5,9 +5,6 @@ permalink: /review
 #comments: true
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
-
 ### Elsevier
 * <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society">Sustainable Cities and Society</a>
 * <a href="https://www.journals.elsevier.com/international-journal-of-applied-earth-observation-and-geoinformation">Journal of Applied Earth Observation and Geoinformation</a>

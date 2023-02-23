@@ -5,9 +5,6 @@ permalink: /publications
 #comments: true
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
-
 # Selected peer-reviewed arcticles
 <i>  Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u> </i>
 
