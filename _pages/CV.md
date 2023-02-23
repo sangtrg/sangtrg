@@ -5,6 +5,9 @@ permalink: /cv
 #comments: true
 ---
 
+<div class="row justify-content-between">
+<div class="col-md-8 pr-5">
+
 {% include base_path %}
 
 << My full CV can be found out <a href="https://docs.google.com/document/d/1WfDsR307eWinxXHo8zVZfSaO4xPcsedD/edit?usp=sharing&ouid=110358112673854373714&rtpof=true&sd=true"> [here]</a>>>
