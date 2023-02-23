@@ -2,8 +2,8 @@
 name: "Can T. Nguyen"
 title: "Can Trong Nguyen"
 description: "Researcher, Environmental Geography & Geoinformatics"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'logo.png'
+favicon: ''
 baseurl: https://sangtrg.github.io/
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
