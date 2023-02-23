@@ -11,5 +11,3 @@ featured: true
 Website is under construction
 
 <img src="/assets/images/Under_construction.jpg"/>
-
-Website is under construction
