@@ -5,7 +5,6 @@ permalink: /publications
 #comments: true
 ---
 
-#### Selected peer-reviewed arcticles
 <i>  Author's name is: <u>Can Trong Nguyen</u> or <u>Nguyen Trong Can </u> </i>
 
 <i> * Corresponding Author </i>
