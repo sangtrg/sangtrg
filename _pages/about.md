@@ -5,6 +5,8 @@ permalink: /about
 #comments: true
 ---
 
+<img src="{{site.baseurl}}/assets/images/Profile.jpg" alt="Nguyen" style="height: 350px"/>
+
 Can Trong Nguyen is a junior scientist. He is currently working as a researcher for a joint project between [Prince of Songkla University (Hatyai campus)](https://en.psu.ac.th/) and Geo-Informatics and Space Technology Development Agency [(GISTDA, Public Orgainization)](https://www.gistda.or.th/home.php?lang=EN), under the framework of [FUTURE EARTH THAILAND](https://www.futureearththailand.org/frontpage). 
 
 He completed his doctoral degree in Environmental Technology at The Joint Graduate School of Energy and Environment [(JGSEE)](https://www.jgsee.kmutt.ac.th/v3/), King Mongkut’s University of Technology Thonburi [(KMUTT)](https://www.kmutt.ac.th/en/), Thailand. His research focuses are Urbanization and Climate Change Impacts on Urban environment and Nature-based Solutions (NbS).
