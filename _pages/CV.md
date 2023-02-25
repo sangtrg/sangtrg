@@ -11,7 +11,13 @@ permalink: /cv
 <hr>
 
 #### Research Interests
-* Environmental Geography * Urban Microclimate * Urban Environmental Management & Planning * Geoinformatics * RS and GIS-related Applications * Ecosystem Services * Coastal farming and Coastal ecosystems 
+* Environmental Geography 
+* Urban Microclimate 
+* Urban Environmental Management & Planning 
+* Geoinformatics 
+* RS and GIS-related Applications 
+* Ecosystem Services 
+* Coastal farming and Coastal ecosystems 
 
 <hr>
 
