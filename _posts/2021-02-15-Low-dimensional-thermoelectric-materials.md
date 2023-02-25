@@ -1,10 +1,9 @@
 ---
 title: Low‐dimensional thermoelectric materials
 layout: post
-author: nguyen
+author: Can T.N.
 categories:
-- thermoelectricity
-- low-dimensional-materials
+- demo
 image: assets/images/te-cover.png
 ---
 
